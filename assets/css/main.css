@@ -14,7 +14,7 @@ footer, header, hgroup, menu, nav, output, ruby,
 section, summary, time, mark, audio, video {
 	margin: 0;
 	padding: 0px;
-	border: 5px;
+	border: 1px;
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;}
@@ -171,7 +171,7 @@ input, select, textarea {
 	}
 
 	p {
-		margin: 1em 6em 1em 6em;
+		margin: 1em 2em 1em 2em;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -1461,7 +1461,7 @@ input, select, textarea {
 
 				.row {
 					margin-top: 0;
-					margin-left: -1.25em;
+					margin-left: -0.5em;
 				}
 
 					.row > * {
@@ -2995,7 +2995,7 @@ input, select, textarea {
 
 				.spotlights > section > .content > .inner {
 					margin: 0 auto;
-					max-width: 90%;
+					max-width: 100%;
 					width: 100em;
 				}
 
